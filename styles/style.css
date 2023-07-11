@@ -44,3 +44,9 @@
     padding-top: 50px;
     padding-right: 100px;
 }
+
+/* Main section Style - Section no. one */
+.main-section-one-description{
+    align-items: center;
+    display: block;
+}

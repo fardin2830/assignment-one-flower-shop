@@ -195,12 +195,13 @@
     margin: auto;
     display: block;
     text-align: center;
+    background-repeat: no-repeat;
 }
 .footer>h1{
     color: #272727;
     font-size: 30px;
     font-weight: 800;
-    padding-top: 15vh;
+    padding-top: 10vh;
 }
 .footer>p{
     padding-top: 2vh;

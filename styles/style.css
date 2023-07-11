@@ -90,7 +90,21 @@
     width: 300px;
     position: relative;
 }
-.chart-one img{
+.chart-two{
+    border-radius: 300px 300px 0px 0px;
+    background: rgba(5, 151, 160, 0.15);
+    height: 350px;
+    width: 300px;
+    position: relative;
+}
+.chart-three{
+    border-radius: 300px 300px 0px 0px;
+    background: rgba(71, 125, 17, 0.15);
+    height: 350px;
+    width: 300px;
+    position: relative;
+}
+.chart-img{
     height: 300px;
     width:250px;
     position: absolute;
@@ -219,8 +233,9 @@
     height: 40px;
     border-radius: 4px;
     border: 0;
-    color: white;
-    font-size: 15px;
+    padding-left: 10px;
+    color: black;
+    font-size: 18px;
 }
 .btn-search{
     height: 40px;

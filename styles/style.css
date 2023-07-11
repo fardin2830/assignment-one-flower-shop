@@ -6,7 +6,7 @@
 .btn-primary{
     width: 177px;
     height: 64px;
-    border-radius: 8px;
+    border-radius: 4px;
     background: #E55473;
     border: 0;
     color: white;
@@ -185,4 +185,73 @@
 }
 .insta-pic>img{
     height: 40vh;
+}
+/* Footer Style  */
+.footer{
+    background-image: url("Rectangle\ 9.png");
+    height: 45vh;
+    width: 70%;
+    margin-top: 10vh;
+    margin: auto;
+    display: block;
+    text-align: center;
+}
+.footer>h1{
+    color: #272727;
+    font-size: 30px;
+    font-weight: 800;
+    padding-top: 15vh;
+}
+.footer>p{
+    padding-top: 2vh;
+}
+.searchbox{
+    padding-top: 3vh;
+    display: flex;
+    align-items: center;
+    width: 60%;
+    margin: auto;
+    gap: 20px;
+}
+.search{
+    width: 600px;
+    height: 40px;
+    border-radius: 4px;
+    border: 0;
+    color: white;
+    font-size: 15px;
+}
+.btn-search{
+    height: 40px;
+    width: 177px;
+    border-radius: 4px;
+    background: #E55473;
+    border: 0;
+    color: white;
+    font-size: 15px;
+    font-weight: 700;
+}
+.btn-search>a{
+    color: white;
+    text-decoration: none;
+}
+.last-footer{
+    background-color:#111010;
+    margin-top: 10vh;
+    height: 40vh;
+    width: 100%;
+    text-align: center;
+    color: white;
+}
+.flower-color{
+    color: #E55473;
+}
+.last-footer>h1{
+    font-size: 30px;
+    font-weight: 800;
+    padding-top: 7vh;
+    padding-bottom: 4vh;
+}
+.last-footer>h6{
+    padding-top: 4vh;
 }

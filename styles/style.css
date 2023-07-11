@@ -3,6 +3,27 @@
     padding: 0px;
     font-family: 'Lato', sans-serif;
 }
+.bonus{
+    height: 40px;
+    width: 100px;
+    background-color: hsla(39, 64%, 73%, 0.322);
+    position: fixed;
+    /* float: right; */
+    right: 0;
+    top: 60%;
+    border: 5px solid rgba(228, 13, 13, 0.281);
+    border-right: 0;
+    border-top: 0;
+    border-top-left-radius: 30px;
+    border-bottom-left-radius: 30px;
+}
+.bonus>h3{
+    font-size: 20px;
+    margin-top: 10px;
+    padding-left: 10px;
+    font-weight: 600;
+    color: red;
+}
 .btn-primary{
     width: 177px;
     height: 64px;
